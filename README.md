@@ -1,7 +1,6 @@
 # AutoCompletion
 
-This is a small application on autocomletion function using MapReduce, we use 3 books as source and count the frequencies of word, 
-which is in booklist folder. And src is source code file.
+This is a small application on autocompletion function using MapReduce, we use 3 books than can be found in the booklist folder as source and count the frequencies of word. And src is source code file.
 
 The result should looks like following:
 
