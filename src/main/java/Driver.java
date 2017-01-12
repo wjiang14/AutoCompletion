@@ -37,7 +37,7 @@ public class Driver {
 		TextOutputFormat.setOutputPath(job1, new Path(args[1]));
 		job1.waitForCompletion(true);
 		
-		//how to connect two jobs?
+		// connect two jobs
 		// last output is second input
 		
 		//2nd job
