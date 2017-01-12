@@ -40,7 +40,7 @@ public class NGramLibraryBuilder {
 				return;
 			}
 			
-			//I love big data
+			
 			StringBuilder sb;
 			for(int i = 0; i < words.length-1; i++) {
 				sb = new StringBuilder();
